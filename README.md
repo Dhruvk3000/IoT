@@ -1,2 +1,3 @@
 # UnderGrad-stuff
-Projects/Hackathons and other stuff I've tried to do during my UnderGrad...
+
+Academics repo
