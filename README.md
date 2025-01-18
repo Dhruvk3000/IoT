@@ -1,3 +1,2 @@
 # IoT Projects and Code
-Code for hand gesture car
-
+This repo contains a collection of IoT-based projects and their corresponding code implementations.
