@@ -1,3 +1,3 @@
-# IoT: Hand gesture car
+# IoT Projects and Code
 Code for hand gesture car
 
