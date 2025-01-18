@@ -57,7 +57,7 @@ def triangulate(tdoas, mic_positions, c=SPEED_OF_SOUND):
 # MongoDB connection
 def connect_to_mongo():
     try:
-        client = MongoClient("mongodb+srv://faiz:1234@gilda.z2wkb.mongodb.net/")
+        client = MongoClient("mongodb+srv://#########.#####.mongodb.net/")
         db = client['test']  # Replace with your database name
         collection = db['localizations']  # Replace with your collection name
         print("Connected to MongoDB successfully!")
